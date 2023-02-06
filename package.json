@@ -1,0 +1,13 @@
+{
+  "name": "@rubberduckai/chatbot.js-test1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "pnpm chatbot --port 3000 --host 127.0.0.1 --template-folder template"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "@rubberduckai/chatbot.js": "0.0.1"
+  }
+}
